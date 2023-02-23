@@ -1,1 +1,3 @@
-# snapmeter-test
+### `npm install`
+
+### `npm start`
